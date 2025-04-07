@@ -18,6 +18,7 @@ A container is a bundle of Application, Application libraries required to run yo
 
 
 ## Containers vs Virtual Machine 
+VMs virtualize the entire hardware, while containers virtualize the operating system, sharing the host OS kernel and resources, leading to lighter, faster, and more portable applications
 
 Containers and virtual machines are both technologies used to isolate applications and their dependencies, but they have some key differences:
 
